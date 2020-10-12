@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="32px" viewBox="0 0 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>btn-close</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Group-9" stroke="#F9F9F9">
+            <line x1="0.5" y1="0.5" x2="32.5" y2="31.5" id="Line-18"></line>
+            <line x1="0.5" y1="0.5" x2="32.5" y2="31.5" id="Line-18" transform="translate(16.500000, 16.000000) scale(-1, 1) translate(-16.500000, -16.000000) "></line>
+        </g>
+    </g>
+</svg>
