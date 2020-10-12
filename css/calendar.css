@@ -1,0 +1,86 @@
+
+
+button {
+  font-size: 11px;
+  letter-spacing: 2px;
+  background: #105670;
+  border: 0;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 10px;
+}
+
+.disp-year {
+  font-size: 24px;
+  font-weight: normal;
+  padding-bottom: 10px;
+  color: #84d1ed;
+}
+
+#dispDate {
+  display: flex;
+  justify-content: space-between;
+}
+
+table {
+  font-size: 11px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+th {
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  word-spacing: 3px;
+  padding: 0 15px 0 15px;
+}
+td {
+  font-size: 11px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  line-height: 1.5;
+  vertical-align: top;
+  padding: 5px 5px 10px;
+}
+
+th:first-child, td:first-child {
+  color: red;
+}
+
+th:last-child, td:last-child {
+  color: royalblue;
+}
+
+td.is-disabled {
+  color: #ccc;
+}
+
+.coffee {
+  font-size: 11px;
+  width: 56px;
+  color: white;
+  padding: 2px 4px;
+  background: brown;
+  line-height: 1.4;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+
+.off {
+  font-size: 11px;
+  width: 50px;
+  color: white;
+  padding: 2px 7px;
+  background: gray;
+  line-height: 1.4;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+
+#btn-box {
+  display: inline;
+  position: relative;
+  left: 410px;
+  top: 30px;
+}
+
